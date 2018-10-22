@@ -1,0 +1,19 @@
+.admintitle {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-left: 4px;
+	margin-right: 4px;
+	height:200px;
+}
+body{
+	background-color: cyan;
+}
+.dashboard{
+	background-color: green;
+	color: white;
+	margin-left: 4px;
+	margin-right: 4px;
+	height: 140px;
+	font-size: 25px;
+}
